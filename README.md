@@ -1,0 +1,2 @@
+# askisi-paragwgous
+OpenMP
